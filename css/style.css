@@ -1,1 +1,25 @@
 /* add CSS class and element and selectors here */
+ body {
+      background-color: lightblue;
+      font-size: 150%;
+ }
+    
+.myClass {
+    background-color: gray;
+    color: blue
+}
+
+.koolKlossils {
+  background-color: pink;
+  border: yellow 20px solid;
+  font-size: 30pt;
+  text-align: center;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+}
+
+#abbysClass {
+  color:lightblue;
+  
+}
