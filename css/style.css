@@ -1,1 +1,22 @@
 /* add CSS class and element and selectors here */
+ body {
+      background-color: lightblue;
+      font-size: 150%;
+    }
+
+    .myClass {
+        background-color: gray;
+        color: blue
+      }
+    
+    .example {
+      background-color:yellow;
+      font-size:50px;
+      cursor:pointer;
+      text-align:center;
+      border: red 15px solid;
+    }
+    
+    #hannahsClass {
+      color:purple;
+    }

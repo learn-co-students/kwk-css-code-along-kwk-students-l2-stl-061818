@@ -7,7 +7,7 @@
 
 ## Additional Challenges
 
-[A reference for _all_ CSS properties](https://www.w3schools.com/cssref/default.asp)
+[A reference for _all_ CSS properties](https://www.w3schools.com/cssref/dhefault.asp)
 
 Here are some suggested challenges to try after practicing with the class:
 
