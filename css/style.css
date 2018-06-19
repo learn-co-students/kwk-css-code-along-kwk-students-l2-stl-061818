@@ -1,1 +1,24 @@
 /* add CSS class and element and selectors here */
+  body {
+      background-color: lightblue;
+      font-size: 150%;
+    }
+
+.myClass {
+      background-color: gray;
+      color: blue
+    }
+
+.good-times {
+  color: red;
+  background-color: purple;
+  font-size: 100px;
+  
+  
+}
+
+#cool-times {
+  background-color: #000;
+  width: 500px;
+  height: 230px;
+}
