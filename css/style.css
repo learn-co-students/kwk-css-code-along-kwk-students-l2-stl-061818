@@ -1,1 +1,20 @@
 /* add CSS class and element and selectors here */
+  body {
+    background-color: lightblue;
+    font-size: 150%;
+  }
+  
+    .myClass {
+      background-color: gray;
+      color: blue
+    }
+    
+    .pool {
+      background-color: orange;
+      border: red  15 px solid;
+      font-size: 85 pt;
+    }
+    
+    #kailinsclass{
+      color: green;
+    }
