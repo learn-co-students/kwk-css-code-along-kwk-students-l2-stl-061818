@@ -1,1 +1,20 @@
-/* add CSS class and element and selectors here */
+    body {
+      background-color: lightblue;
+      font-size: 150%;
+    }
+    
+     .myClass {
+      background-color: gray;
+      color: blue
+    }
+    
+    .koolKanadians{
+      background-color: orange;
+      Border:red 15px;
+      font-size: 80px;
+      text-align: center;
+    }
+    
+    #tophersclass {
+     color:orange; 
+    }
